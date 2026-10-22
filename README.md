@@ -1,5 +1,7 @@
 # 📦 Smart Inventory & Warehouse Tracking System (SIWTS)
 
+Repo = https://github.com/saswata35/Smart_Inventory_System.git
+
 A modular Python backend application designed to manage multi-warehouse inventories, execute ACID-compliant stock transactions, stream low-stock alerts, and automate executive auditing and reporting.
 
 ---
@@ -38,4 +40,4 @@ Smart_Inventory_System/
 ├── README.md
 └── requirements.txt
 
-Repo = https://github.com/saswata35/Smart_Inventory_System.git
+
