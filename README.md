@@ -37,3 +37,5 @@ Smart_Inventory_System/
 ├── main.py
 ├── README.md
 └── requirements.txt
+
+Repo = 
