@@ -38,4 +38,4 @@ Smart_Inventory_System/
 ├── README.md
 └── requirements.txt
 
-Repo = 
+Repo = https://github.com/saswata35/Smart_Inventory_System.git
